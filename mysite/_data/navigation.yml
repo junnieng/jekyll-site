@@ -1,0 +1,9 @@
+- label: Home
+  link: /
+- label: About
+  link: /about.html
+- label: Collection
+  link: /gallery.html
+- label: Contact
+  link: /contact.html
+ 

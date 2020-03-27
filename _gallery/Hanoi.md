@@ -1,0 +1,8 @@
+---
+name: Hanoi
+source: https://en.wikipedia.org/wiki/Hanoi
+---
+Hanoi (Hà Nội)) is the capital of Vietnam. It covers an area of 3,328.9 square kilometres (1,285 sq mi). With an estimated population of 8.1 million as of 2019, it is the second largest city in Vietnam. The metropolitan area, encompassing nine additional neighbouring provinces, has an estimated population of 16 million. Located in the central area of the Red River Delta, Hanoi is the commercial, cultural, and educational centre of Northern Vietnam. Having an estimated nominal GDP of US$32.8 billion, it is the second most productive economic centre of Vietnam, following Ho Chi Minh City.
+
+<img src="/assets/images/91419968_268421010834495_2728804860173484032_n.jpg">
+<img src="/assets/images/91602150_522129538734364_1176339637694627840_n.jpg">
